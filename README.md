@@ -1,16 +1,90 @@
-## Hi there 👋
+<h1 align="center">👋 Halo, Kami Kelas X RPL!</h1>
+<h3 align="center">SMK Pelita Bangunrejo</h3>
 
-<!--
-**softxpl/softxpl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E86DE&center=true&vCenter=true&width=500&lines=Rekayasa+Perangkat+Lunak;Belajar+Coding+Bersama;Generasi+Pelajar+SMK+Pelita" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://img.shields.io/badge/Kelas-X%20RPL-2E86DE?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Sekolah-SMK%20Pelita%20Bangunrejo-27AE60?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Jurusan-Rekayasa%20Perangkat%20Lunak-F39C12?style=for-the-badge" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🏫 Tentang Kami
+
+Kami adalah siswa-siswi kelas **X RPL (Rekayasa Perangkat Lunak)** SMK Pelita Bangunrejo.
+GitHub ini kami gunakan sebagai wadah untuk belajar, berbagi, dan menyimpan proyek-proyek yang kami kerjakan selama masa pembelajaran di jurusan RPL.
+
+- 🎓 **Sekolah:** SMK Pelita Bangunrejo
+- 💻 **Jurusan:** Rekayasa Perangkat Lunak (RPL)
+- 📚 **Kelas:** X (Sepuluh)
+- 📍 **Lokasi:** Bangunrejo, Lampung Tengah
+
+---
+
+## 🚀 Yang Sedang Kami Pelajari
+
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+</p>
+
+- Dasar pemrograman & logika algoritma
+- Pembuatan website (HTML, CSS, JavaScript)
+- Basis data dengan MySQL
+- Praktik kerja lapangan (PKL) di dunia industri
+- Pengenalan version control dengan Git & GitHub
+
+---
+
+## 📂 Proyek Kelas
+
+| No | Nama Proyek | Deskripsi | Status |
+|----|-------------|-----------|--------|
+| 1  | _Nama Proyek 1_ | Deskripsi singkat proyek | 🚧 Proses |
+| 2  | _Nama Proyek 2_ | Deskripsi singkat proyek | ✅ Selesai |
+| 3  | _Nama Proyek 3_ | Deskripsi singkat proyek | 📝 Rencana |
+
+> Tambahkan proyek kelas atau proyek individu di tabel di atas seiring berjalannya waktu.
+
+---
+
+## 👥 Anggota Kelas
+
+| No | Nama | Username GitHub |
+|----|------|------------------|
+| 1  | Nama Siswa 1 | [@username1](https://github.com/) |
+| 2  | Nama Siswa 2 | [@username2](https://github.com/) |
+| 3  | Nama Siswa 3 | [@username3](https://github.com/) |
+
+> _Silakan lengkapi tabel ini dengan nama dan username GitHub masing-masing anggota kelas._
+
+---
+
+## 📈 Statistik GitHub Kelas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=default" alt="GitHub Stats" />
+</p>
+
+---
+
+## 📬 Kontak
+
+- 📧 Email: _(isi email kelas/sekolah)_
+- 📷 Instagram: _(isi akun instagram kelas, jika ada)_
+- 🌐 Website Sekolah: _(isi jika ada)_
+
+---
+
+<p align="center">✨ <b>Belajar hari ini, berkarya untuk masa depan!</b> ✨</p>
+<p align="center"><i>X RPL - SMK Pelita Bangunrejo</i></p>
