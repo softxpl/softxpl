@@ -46,28 +46,10 @@ GitHub ini kami gunakan sebagai wadah untuk belajar, berbagi, dan menyimpan proy
 
 ---
 
-## 📂 Proyek Kelas
-
-| No | Nama Proyek | Deskripsi | Status |
-|----|-------------|-----------|--------|
-| 1  | __ |  |  |
-| 2  | __ |  |  |
-| 3  | __ |  |  |
-
----
-
-
-## 📈 Statistik GitHub Kelas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=softxpl&show_icons=true&theme=default" alt="GitHub Stats" />
-</p>
-
----
 
 ## 📬 Kontak
 
-- Email: _softxpl@gmail.com_
+- Email: _softxrpl@gmail.com_
 - Instagram: _(isi akun instagram kelas, jika ada)_
 - Tiktok: _
 
