@@ -50,39 +50,26 @@ GitHub ini kami gunakan sebagai wadah untuk belajar, berbagi, dan menyimpan proy
 
 | No | Nama Proyek | Deskripsi | Status |
 |----|-------------|-----------|--------|
-| 1  | _Nama Proyek 1_ | Deskripsi singkat proyek | 🚧 Proses |
-| 2  | _Nama Proyek 2_ | Deskripsi singkat proyek | ✅ Selesai |
-| 3  | _Nama Proyek 3_ | Deskripsi singkat proyek | 📝 Rencana |
-
-> Tambahkan proyek kelas atau proyek individu di tabel di atas seiring berjalannya waktu.
+| 1  | __ |  |  |
+| 2  | __ |  |  |
+| 3  | __ |  |  |
 
 ---
 
-## 👥 Anggota Kelas
-
-| No | Nama | Username GitHub |
-|----|------|------------------|
-| 1  | Nama Siswa 1 | [@username1](https://github.com/) |
-| 2  | Nama Siswa 2 | [@username2](https://github.com/) |
-| 3  | Nama Siswa 3 | [@username3](https://github.com/) |
-
-> _Silakan lengkapi tabel ini dengan nama dan username GitHub masing-masing anggota kelas._
-
----
 
 ## 📈 Statistik GitHub Kelas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=default" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=softxpl&show_icons=true&theme=default" alt="GitHub Stats" />
 </p>
 
 ---
 
 ## 📬 Kontak
 
-- 📧 Email: _(isi email kelas/sekolah)_
-- 📷 Instagram: _(isi akun instagram kelas, jika ada)_
-- 🌐 Website Sekolah: _(isi jika ada)_
+- Email: _softxpl@gmail.com_
+- Instagram: _(isi akun instagram kelas, jika ada)_
+- Tiktok: _
 
 ---
 
