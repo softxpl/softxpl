@@ -50,7 +50,7 @@ GitHub ini kami gunakan sebagai wadah untuk belajar, berbagi, dan menyimpan proy
 ## 📬 Kontak
 
 - Email: _softxrpl@gmail.com_
-- Instagram: _(isi akun instagram kelas, jika ada)_
+- Instagram: _instagram.com/ofc.classxrpl_
 - Tiktok: _
 
 ---
